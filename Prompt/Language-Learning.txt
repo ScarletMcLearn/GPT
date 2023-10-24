@@ -1,0 +1,14 @@
+I will give you a sentence in English.
+Please translate the sentence to Germany.
+I want the words in the translated sentence have the corresponding word in English in brackets. 
+
+For example:
+
+Input: 
+Hello, I am Ratul.
+
+Output:
+Hello (Hallo), I (Ich) am (bin) Ratul (Ratul).
+
+I do not want the entire translated sentence at once.
+I want the translation of  the individual words in brackets as shown above.
